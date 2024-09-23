@@ -1,4 +1,4 @@
-package com.example.personalLoanUsingRestApi.demo.PersonalLoanApi;
+package com.krafit.financialcalcs;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
