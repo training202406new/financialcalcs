@@ -1,4 +1,4 @@
-package com.krafit.PersonalLoanApi;
+package com.krafit.financialcalcs;
 
 
 import lombok.AllArgsConstructor;
