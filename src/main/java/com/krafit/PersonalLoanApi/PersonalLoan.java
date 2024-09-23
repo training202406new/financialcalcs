@@ -1,4 +1,4 @@
-package com.example.personalLoanUsingRestApi.demo.PersonalLoanApi;
+package com.krafit.PersonalLoanApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

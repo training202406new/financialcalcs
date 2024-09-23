@@ -1,4 +1,4 @@
-package com.example.personalLoanUsingRestApi.demo.PersonalLoanApi;
+package com.krafit.PersonalLoanApi;
 
 
 import lombok.AllArgsConstructor;
