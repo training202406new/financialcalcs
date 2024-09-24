@@ -2,13 +2,11 @@ package com.krafit.financialcalcs.LoanCalculatorApplication;
 
 import lombok.Getter;
 import lombok.Setter;
-import lombok.ToString;
 
 @Getter
 @Setter
-@ToString
-public class LoanCalculator {
+public class ExpectedPersonalLoanEMICalculationRequest {
     int principalAmount;
-    int tenureOfMonths;
+    int tenureInMonths;
     double annualInterest;
 }
